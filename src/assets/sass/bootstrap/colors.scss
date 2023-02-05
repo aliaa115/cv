@@ -1,0 +1,105 @@
+// Quasar SCSS (& Sass) Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass/SCSS variables found in Quasar's source Sass/SCSS files.
+
+// Check documentation for full list of Quasar variables
+
+// Your own variables (that are declared here) and Quasar's own
+// ones will be available out of the box in your .vue/.scss/.sass files
+
+// It's highly recommended to change the default colors
+// to match your app's branding.
+// Tip: Use the "Theme Builder" on Quasar's documentation website.
+
+// src/css/quasar.variables.scss
+
+$primary: #4f6a8f;
+$primary-1: #a7b4c7;
+$primary-2: #7b8fab;
+$primary-3: #3b506b;
+$primary-4: #283548;
+
+$secondary: #1f8db0;
+$secondary-1: #8fc6d7;
+$secondary-2: #57aac4;
+$secondary-3: #176a84;
+$secondary-4: #0f4758;
+
+$accent: #00afba;
+$accent-1: #80d7dc;
+$accent-2: #40c3cb;
+$accent-3: #00838b;
+$accent-4: #00575d;
+
+$positive: #97e889;
+$positive-1: #cbf3c4;
+$positive-2: #b1eea7;
+$positive-3: #71ae67;
+$positive-4: #4c7445;
+
+$negative: #ff7474;
+$negative-1: #ffbaba;
+$negative-2: #ff9797;
+$negative-3: #bf5757;
+$negative-4: #803a3a;
+
+$warning: #f9f871;
+$warning-1: #fcfbb8;
+$warning-2: #fbfa94;
+$warning-3: #bbba55;
+$warning-4: #7c7c38;
+
+$info: #33cfa9;
+$info-1: #99e7d4;
+$info-2: #66dbbe;
+$info-3: #269b7f;
+$info-4: #1a6855;
+
+$dark: #394152;
+$excel: #1d6f42;
+$word: #1b63c5;
+$pdf: #f40f02;
+
+
+$custom-colors: (
+  "primary":$primary,
+  "primary_1":$primary-1,
+  "primary_2":$primary-2,
+  "primary_3":$primary-3,
+  "primary_4":$primary-4,
+  "secondary":$secondary,
+  "secondary_1":$secondary-1,
+  "secondary_2":$secondary-2,
+  "secondary_3":$secondary-3,
+  "secondary_4":$secondary-4,
+  "accent":$accent,
+  "accent_1":$accent-1,
+  "accent_2":$accent-2,
+  "accent_3":$accent-3,
+  "accent_4":$accent-4,
+  "success":$positive,
+  "success_1":$positive-1,
+  "success_2":$positive-2,
+  "success_3":$positive-3,
+  "success_4":$positive-4,
+  "danger":$negative,
+  "danger_1":$negative-1,
+  "danger_2":$negative-2,
+  "danger_3":$negative-3,
+  "danger_4":$negative-4,
+  "warning":$warning,
+  "warning_1":$warning-1,
+  "warning_2":$warning-2,
+  "warning_3":$warning-3,
+  "warning_4":$warning-4,
+  "info":$info,
+  "info_1":$info-1,
+  "info_2":$info-2,
+  "info_3":$info-3,
+  "info_4":$info-4,
+  "dark":$dark,
+  "excel":$excel,
+  "word":$word,
+  "pdf":$pdf,
+);
